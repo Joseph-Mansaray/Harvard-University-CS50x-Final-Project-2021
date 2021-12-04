@@ -65,11 +65,11 @@ Installation/Setup
     Browse the Centralize Covid Vaccination Record System in a browser. i.e. http://localhost/vaccinated/.
 
 Default Admin Access Information
-
+____________________________________________
 Username: admin
 Password: admin123
    
-  
+_________________________________________________  
 
 
 Harvard University Final project 2021
