@@ -52,7 +52,7 @@ ___________________________________________________
 Requirements
 
     Download and Install any local web server such as XAMPP/WAMP.
-    Use the Vaccinated source code zip file. 
+    Download the Vaccinated source code zip file. 
 
 Installation/Setup
 
@@ -68,4 +68,19 @@ Default Admin Access Information
 
 Username: admin
 Password: admin123
-    
+   
+  
+
+
+Harvard University Final project 2021
+Copyright 2021. (c) all rights reserved.    
+
+
+
+
+
+
+
+
+
+Special thnx to (oretnom23 ) for the support on this Project
