@@ -74,7 +74,7 @@ ______________________________________________
 
 
 
-Harvard University Final project 2021
+
 Copyright 2021. (c) all rights reserved.    
 
 
@@ -85,4 +85,4 @@ Copyright 2021. (c) all rights reserved.
 
 
 
-Special thnx to (oretnom23 ) for the support on this Project
+Special thnx to ( @oretnom23 ) 
