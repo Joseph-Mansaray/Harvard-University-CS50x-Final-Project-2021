@@ -2,7 +2,11 @@
 Centralized Covid Vaccination Records System in PHP 
 
 Video Demo: Link to my Youtube -  https://youtu.be/OYJgdLFaNaQ
-[vaccinated.zip](https://github.com/Mo-IT-Git/Harvard-University-CS50x-Final-Project-2021/files/7654696/vaccinated.zip)
+
+[vaccinated.zip]
+
+
+(https://github.com/Mo-IT-Git/Harvard-University-CS50x-Final-Project-2021/files/7654696/vaccinated.zip)
 
 
 Introduction
